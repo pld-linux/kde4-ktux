@@ -5,12 +5,12 @@
 
 Summary:	ktux
 Name:		kde4-%{orgname}
-Version:	4.13.1
+Version:	4.13.2
 Release:	1
 License:	LGPL
 Group:		X11/Applications
 Source0:	ftp://ftp.kde.org/pub/kde/%{_state}/%{version}/src/%{orgname}-%{version}.tar.xz
-# Source0-md5:	a5f465e4437a6cb5f25d19c242926bd8
+# Source0-md5:	a92f994571d4ca06ad87ea8cb2284f45
 URL:		http://www.kde.org/
 BuildRequires:	automoc4 >= 0.9.84
 BuildRequires:	cmake >= 2.8.0
