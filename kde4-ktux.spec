@@ -6,7 +6,7 @@
 Summary:	ktux
 Name:		kde4-%{orgname}
 Version:	4.14.3
-Release:	1
+Release:	2
 License:	LGPL
 Group:		X11/Applications
 Source0:	http://download.kde.org/%{_state}/%{version}/src/%{orgname}-%{version}.tar.xz
